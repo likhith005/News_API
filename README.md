@@ -42,7 +42,3 @@ git clone https://github.com/your_username/news_api.git
 
 - [News API](https://newsapi.org/) for providing the news data.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
