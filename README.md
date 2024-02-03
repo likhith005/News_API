@@ -26,7 +26,8 @@ The application makes use of the [News API](https://newsapi.org/) to fetch real-
 
 1. Clone the repository:
 
-git clone https://github.com/your_username/news_api.git
+git clone https://github.com/likhith005/News_API.git
+
 
 
 2. Open `index.html` in your web browser.
