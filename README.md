@@ -43,3 +43,7 @@ git clone https://github.com/likhith005/News_API.git
 
 - [News API](https://newsapi.org/) for providing the news data.
 
+## Contributing
+
+-Contributions are welcome! Please fork the repository and submit a pull request with your changes.
+
